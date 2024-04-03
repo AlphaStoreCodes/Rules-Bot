@@ -12,13 +12,13 @@ function startServer() {
       href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
       rel="stylesheet"
     />
-    <title>Wick Studio</title>
+    <title>Alpha Store</title>
     <style>
       body {
         margin: 0;
         padding: 0;
         font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-        background: url(https://media.discordapp.net/attachments/1182085199346008155/1189566491302055997/Server_Banner.png?ex=659ea120&is=658c2c20&hm=9d475c26895cf9f6ca0a27aaf96237d39a6ae66efc4dc87232348274825d27d9&=&format=webp&quality=lossless&width=840&height=473)
+        background: url(https://media.discordapp.net/attachments/1217632060919775372/1222259738860064838/Picsart_24-03-26_20-03-41-986.jpg?ex=661ecb96&is=660c5696&hm=5670a597c54b8076ef4809c381add77462305dfdd41c0ce0a44129e56e9211d5&=&format=webp&width=785&height=785)
           no-repeat;
         object-fit: cover;
         background-position: center;
@@ -197,11 +197,11 @@ function startServer() {
   </head>
   <body>
     <div class="container">
-      <h1>Welcome to Wick Studio!</h1>
+      <h1>Welcome to Alpha Store!</h1>
       <p>You can reach us through the links provided in the buttons below</p>
       <div class="main">
         <div class="up">
-          <a href="https://www.youtube.com/@wick_studio">
+          <a href="https://www.youtube.com/@-itzsakiyos3477">
             <button class="card1">
               <i class="bx bxl-youtube youtube"></i>
             </button>
@@ -211,7 +211,7 @@ function startServer() {
           </button>
         </div>
         <div class="down">
-          <a href="https://github.com/wickstudio">
+          <a href="https://github.com/tlhe2222/">
             <button class="card3">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -226,7 +226,7 @@ function startServer() {
               </svg>
             </button>
           </a>
-          <a href="https://discord.gg/wicks">
+          <a href="https://discord.gg/Kwdmyyjtep">
             <button class="card4">
               <i class="bx bxl-discord-alt discord"></i>
             </button>
